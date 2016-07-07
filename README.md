@@ -1,2 +1,2 @@
-# jhkim
-test
+# README
+ sysnc test account
